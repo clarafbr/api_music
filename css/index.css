@@ -1,0 +1,15 @@
+:root{
+    --black: #1E1E1E;
+    --gray100:#D9D9D9;
+    --gray200:#8A8989;
+    --white: #fff;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color:var(--black);
+    color: var(--gray100);
+}
